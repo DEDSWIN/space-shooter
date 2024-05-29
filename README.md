@@ -29,4 +29,3 @@ You can also simulate the game using the cpulator simulator. Follow the instruct
 
 ## Credits
 This project was developed as part of the CS210 course by [Harshvardhan] - 2201CS92
-```sh
