@@ -17,7 +17,8 @@ This repository contains a space shooter game developed in C as a part of the CS
 - **python/**: Python programs used during the development process.
 - **report/**: The project report detailing the development process and technical details.
 - **video/**:
-- [![Watch the video](https://drive.google.com/file/d/1ezU4QvT5Lc15uDKhd4Crv6d6d_9uq7k3/view?usp=sharing)](https://cciitpatna-my.sharepoint.com/:v:/g/personal/2201cs92_harshvardhan_iitp_ac_in/EXDtFqT_glxHuRX2Dwxa0y8B--jgEfnO_B976JUtaVy1DQ?e=XVXOUN)
+[![Watch the video](https://drive.google.com/uc?export=view&id=1ezU4QvT5Lc15uDKhd4Crv6d6d_9uq7k3)](https://cciitpatna-my.sharepoint.com/:v:/g/personal/2201cs92_harshvardhan_iitp_ac_in/EXDtFqT_glxHuRX2Dwxa0y8B--jgEfnO_B976JUtaVy1DQ?e=XVXOUN)
+
 - **game.c**: The main game code file added as a drive link.
 
 ## Getting Started
